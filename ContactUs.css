@@ -1,0 +1,151 @@
+.contact-us,
+.contact-us * {
+  box-sizing: border-box;
+}
+.contact-us {
+  background: #662b2c;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.bmgt-407 {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 59px;
+  width: 217px;
+  height: 61px;
+}
+.homepage {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 635px;
+  top: 59px;
+}
+.about-us {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 933px;
+  top: 59px;
+}
+.contact {
+  color: #f5f5f5;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1217px;
+  top: 59px;
+}
+.contact-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 196px;
+  width: 301px;
+}
+.reach-out-to-the-course-team-for-support-or-inquires {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 283px;
+  width: 1266px;
+  height: 87px;
+}
+.professor-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 347px;
+  width: 276px;
+  height: 40px;
+}
+.paul-t-shapiro-pshapiro-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 409px;
+  width: 446px;
+  height: 40px;
+}
+.ta-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 516px;
+  width: 176px;
+  height: 40px;
+}
+.bharath-sreekumar-bsreekum-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 569px;
+  width: 522px;
+  height: 57px;
+}
+.caifu-lin-clin-0817-terpmail-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 628px;
+  width: 522px;
+  height: 57px;
+}
+.sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 685px;
+  width: 522px;
+  height: 57px;
+}
